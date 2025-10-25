@@ -1,4 +1,5 @@
 # calcular el area y el perimetro del rectangulo
+
 ladoa = float(input("Lado A: "))
 ladob = float(input("Lado B: "))
 
